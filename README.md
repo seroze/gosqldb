@@ -1,6 +1,6 @@
 # gosqldb
 
-I'll be posting my about's while writing an SQL db,
+I'll be posting my learnings while writing an SQL db,
 i'm following `How to write your own database from scratch in Go` book
 
 Book summary:
